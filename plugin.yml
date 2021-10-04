@@ -13,7 +13,5 @@ description: Hide Education Edition items and blocks from creative inventory
 author: KygekDev
 website: "https://github.com/kdpls/EduInvHide"
 api: 4.0.0
-extensions:
-  Core: ">=8.0"
 main: KygekDev\EduInvHide\EduInvHide
 ...
