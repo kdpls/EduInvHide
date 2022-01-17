@@ -1,5 +1,8 @@
 # EduInvHide
 
+![GitHub release (latest by date)](https://img.shields.io/github/v/release/kdpls/EduInvHide?style=flat-square)
+![GitHub all releases](https://img.shields.io/github/downloads/kdpls/EduInvHide/total?label=downloads%40total&style=flat-square)
+![GitHub release (latest by date)](https://img.shields.io/github/downloads/kdpls/EduInvHide/latest/total?style=flat-square)
 ![Discord](https://img.shields.io/discord/856281149503963166?style=flat-square)
 
 A PocketMine-MP 4 plugin to hide Education Edition items and blocks from creative inventory.
@@ -12,8 +15,8 @@ When the plugin is being enabled, the plugin unregisters all items and blocks th
 
 ## Downloads
 
-- Stable version (Recommended for most users): [Latest](https://github.com/kdpls/EduInvHide/releases/latest) | [All releases](https://github.com/kdpls/EduInvHide/releases)
-- Build version (Only recommended for advanced users): [Poggit CI](https://poggit.pmmp.io/ci/kdpls/EduInvHide/~)
+- Stable version (Recommended): [Latest](https://github.com/kdpls/EduInvHide/releases/latest) | [All releases](https://github.com/kdpls/EduInvHide/releases)
+- Build version (For advanced users): [Poggit CI](https://poggit.pmmp.io/ci/kdpls/EduInvHide/~)
 
 ## Info
 
